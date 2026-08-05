@@ -8,7 +8,7 @@ I enjoy building full-stack applications and am currently focused on backend dev
 
 - <b>Full Stack Web App (Java, Spring Boot, PostgreSQL, JPA/Hibernate, Spring Security, and FreeMarker MVC)</b>
   - [Balanced Bite](https://github.com/00Nix/sp26-team10) — A full-stack meal prep & subscription platform connecting customers with meal providers for browsing, subscribing to, and reviewing meal plans.
-- <b>Web App</b>
+- <b>Web App Demo (HTML) </b>
   - [Static Web App](https://github.com/00Nix/CSC340-StaticWebApp)
 
 <h2>Skills:</h2>
