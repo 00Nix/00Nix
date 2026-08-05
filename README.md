@@ -15,7 +15,7 @@ I enjoy building full-stack applications and am currently focused on backend dev
 
 <b>Languages:</b> Java, HTML, CSS, SQL
 <br>
-<b>Frameworks & Tools:</b> Spring Boot, Spring Security, JPA/Hibernate, Git/GitHub
+<b>Frameworks & Tools:</b> Spring Boot, Spring Security, JPA/Hibernate
 
 <h2>Contact:</h2>
 
