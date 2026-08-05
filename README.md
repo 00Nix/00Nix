@@ -2,7 +2,7 @@
 
 <b>I am a computer science student at UNC Greensboro, with an A.S. in Computer Science from Central Piedmont Community College. </b>
 
-I enjoy building full-stack applications and am currently focused on backend development with Java and Spring Boot.
+I enjoy building full-stack applications with a growing focus on backend and frontend development with Java.
 
 <h2>Projects:</h2>
 
