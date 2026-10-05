@@ -1,4 +1,4 @@
-<h1>Hello, I'm Caleb! 👋</h1>
+<h1>Hello, I'm Caleb! </h1>
 
 <b>I am a computer science student at UNC Greensboro, with an A.S. in Computer Science from Central Piedmont Community College. </b>
 
